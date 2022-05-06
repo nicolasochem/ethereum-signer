@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Wrap Signer
+# Plenty Bridge Signer
 
 Signer node and indexer for wrap protocol
 
@@ -121,7 +120,3 @@ First release
   - make a commit bumping the version:  `Bump version to 0.2.0` and adds the new changelog section to the commit's body
   - push a git tag
   - create a GitHub release for that git tag
-  
-=======
-# plenty-bridge-signer
->>>>>>> d3684899e6c3db5bb3f4b4f3cb25a77d9e7d06ae
